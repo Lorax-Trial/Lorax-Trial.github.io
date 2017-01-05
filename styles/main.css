@@ -11,7 +11,7 @@ p {
 }
 p.indent {
   color: yellow;
-  font-family: Grinched;
+  font-family: serif;
   text-indent: 3.125em;
 }
 h1, h2, h3, h4, h5, h6 {
